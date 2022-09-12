@@ -1,4 +1,4 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Zicneth1>
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Zicnet </h1>
 
 <h3 align="center">Python Developer</h3>
 <p align="center">
@@ -12,12 +12,3 @@
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<details>
-  <summary>:zap: <b>GitHub stats</b></summary>
-  <p>
-   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
-   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
-   <br>
-   <img align="middle" src="https://metrics.lecoq.io/baggerfast" />
-  </p>
-</details>
